@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: b8801dbe59e4c5c47883d336bf2e5f16
+timeCreated: 1426820743
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 2nd floor window 002
+    100002: 2nd floor window 003
+    100004: 2nd floor window 004
+    100006: 2nd floor window 005
+    100008: 2nd floor window 006
+    100010: 2nd floor window 007
+    100012: 2nd floor window 008
+    100014: 2nd floor window 009
+    100016: 2nd floor window 010
+    100018: 2nd floor window 011
+    100020: 2nd floor window 012
+    100022: 2nd floor window 013
+    100024: 2nd floor window 014
+    100026: 2nd floor window 015
+    100028: 2nd floor window 016
+    100030: 2nd floor window 017
+    100032: 2nd floor window 018
+    100034: 2nd floor window 019
+    100036: 2nd floor window 020
+    100038: 2nd floor window 021
+    100040: 2nd floor window 022
+    100042: 2nd floor window 023
+    100044: 45 divider
+    100046: 45 divider001
+    100048: 45 divider002
+    100050: 45 divider003
+    100052: //RootNode
+    100054: center window divider001
+    100056: center window divider002
+    100058: center window divider003
+    100060: center window divider004
+    100062: center window divider005
+    100064: center window divider006
+    100066: center window divider007
+    100068: center window divider008
+    100070: center window divider009
+    100072: center window divider010
+    100074: center window divider011
+    100076: floor
+    100078: large shop door
+    100080: large shop door001
+    100082: large shop door002
+    100084: large shop door003
+    100086: large shop door004
+    100088: large shop door005
+    100090: large shop door006
+    100092: large shop door007
+    100094: large shop door008
+    100096: large shop door009
+    100098: large shop door010
+    100100: sidewalk_square
+    100102: sidewalk_square002
+    100104: sidewalk_square003
+    100106: sidewalk_square004
+    100108: sidewalk_square005
+    100110: tall divider
+    100112: tall divider001
+    100114: tall divider002
+    100116: tall divider003
+    100118: tall divider004
+    100120: tall divider005
+    100122: window top001
+    100124: window top002
+    100126: window top003
+    100128: window top004
+    100130: window top005
+    100132: window top006
+    100134: window top007
+    100136: window top008
+    100138: window top009
+    100140: window top010
+    100142: window top011
+    100144: window top012
+    100146: window top013
+    100148: window top014
+    100150: window top015
+    100152: window top016
+    100154: window top017
+    100156: window top018
+    100158: window top019
+    100160: window top020
+    100162: window top021
+    100164: window top022
+    400000: 2nd floor window 002
+    400002: 2nd floor window 003
+    400004: 2nd floor window 004
+    400006: 2nd floor window 005
+    400008: 2nd floor window 006
+    400010: 2nd floor window 007
+    400012: 2nd floor window 008
+    400014: 2nd floor window 009
+    400016: 2nd floor window 010
+    400018: 2nd floor window 011
+    400020: 2nd floor window 012
+    400022: 2nd floor window 013
+    400024: 2nd floor window 014
+    400026: 2nd floor window 015
+    400028: 2nd floor window 016
+    400030: 2nd floor window 017
+    400032: 2nd floor window 018
+    400034: 2nd floor window 019
+    400036: 2nd floor window 020
+    400038: 2nd floor window 021
+    400040: 2nd floor window 022
+    400042: 2nd floor window 023
+    400044: 45 divider
+    400046: 45 divider001
+    400048: 45 divider002
+    400050: 45 divider003
+    400052: //RootNode
+    400054: center window divider001
+    400056: center window divider002
+    400058: center window divider003
+    400060: center window divider004
+    400062: center window divider005
+    400064: center window divider006
+    400066: center window divider007
+    400068: center window divider008
+    400070: center window divider009
+    400072: center window divider010
+    400074: center window divider011
+    400076: floor
+    400078: large shop door
+    400080: large shop door001
+    400082: large shop door002
+    400084: large shop door003
+    400086: large shop door004
+    400088: large shop door005
+    400090: large shop door006
+    400092: large shop door007
+    400094: large shop door008
+    400096: large shop door009
+    400098: large shop door010
+    400100: sidewalk_square
+    400102: sidewalk_square002
+    400104: sidewalk_square003
+    400106: sidewalk_square004
+    400108: sidewalk_square005
+    400110: tall divider
+    400112: tall divider001
+    400114: tall divider002
+    400116: tall divider003
+    400118: tall divider004
+    400120: tall divider005
+    400122: window top001
+    400124: window top002
+    400126: window top003
+    400128: window top004
+    400130: window top005
+    400132: window top006
+    400134: window top007
+    400136: window top008
+    400138: window top009
+    400140: window top010
+    400142: window top011
+    400144: window top012
+    400146: window top013
+    400148: window top014
+    400150: window top015
+    400152: window top016
+    400154: window top017
+    400156: window top018
+    400158: window top019
+    400160: window top020
+    400162: window top021
+    400164: window top022
+    2300000: 2nd floor window 002
+    2300002: 2nd floor window 003
+    2300004: 2nd floor window 004
+    2300006: 2nd floor window 005
+    2300008: 2nd floor window 006
+    2300010: 2nd floor window 007
+    2300012: 2nd floor window 008
+    2300014: 2nd floor window 009
+    2300016: 2nd floor window 010
+    2300018: 2nd floor window 011
+    2300020: 2nd floor window 012
+    2300022: 2nd floor window 013
+    2300024: 2nd floor window 014
+    2300026: 2nd floor window 015
+    2300028: 2nd floor window 016
+    2300030: 2nd floor window 017
+    2300032: 2nd floor window 018
+    2300034: 2nd floor window 019
+    2300036: 2nd floor window 020
+    2300038: 2nd floor window 021
+    2300040: 2nd floor window 022
+    2300042: 2nd floor window 023
+    2300044: 45 divider
+    2300046: 45 divider001
+    2300048: 45 divider002
+    2300050: 45 divider003
+    2300052: center window divider001
+    2300054: center window divider002
+    2300056: center window divider003
+    2300058: center window divider004
+    2300060: center window divider005
+    2300062: center window divider006
+    2300064: center window divider007
+    2300066: center window divider008
+    2300068: center window divider009
+    2300070: center window divider010
+    2300072: center window divider011
+    2300074: floor
+    2300076: large shop door
+    2300078: large shop door001
+    2300080: large shop door002
+    2300082: large shop door003
+    2300084: large shop door004
+    2300086: large shop door005
+    2300088: large shop door006
+    2300090: large shop door007
+    2300092: large shop door008
+    2300094: large shop door009
+    2300096: large shop door010
+    2300098: sidewalk_square
+    2300100: sidewalk_square002
+    2300102: sidewalk_square003
+    2300104: sidewalk_square004
+    2300106: sidewalk_square005
+    2300108: tall divider
+    2300110: tall divider001
+    2300112: tall divider002
+    2300114: tall divider003
+    2300116: tall divider004
+    2300118: tall divider005
+    2300120: window top001
+    2300122: window top002
+    2300124: window top003
+    2300126: window top004
+    2300128: window top005
+    2300130: window top006
+    2300132: window top007
+    2300134: window top008
+    2300136: window top009
+    2300138: window top010
+    2300140: window top011
+    2300142: window top012
+    2300144: window top013
+    2300146: window top014
+    2300148: window top015
+    2300150: window top016
+    2300152: window top017
+    2300154: window top018
+    2300156: window top019
+    2300158: window top020
+    2300160: window top021
+    2300162: window top022
+    3300000: 2nd floor window 002
+    3300002: 2nd floor window 003
+    3300004: 2nd floor window 004
+    3300006: 2nd floor window 005
+    3300008: 2nd floor window 006
+    3300010: 2nd floor window 007
+    3300012: 2nd floor window 008
+    3300014: 2nd floor window 009
+    3300016: 2nd floor window 010
+    3300018: 2nd floor window 011
+    3300020: 2nd floor window 012
+    3300022: 2nd floor window 013
+    3300024: 2nd floor window 014
+    3300026: 2nd floor window 015
+    3300028: 2nd floor window 016
+    3300030: 2nd floor window 017
+    3300032: 2nd floor window 018
+    3300034: 2nd floor window 019
+    3300036: 2nd floor window 020
+    3300038: 2nd floor window 021
+    3300040: 2nd floor window 022
+    3300042: 2nd floor window 023
+    3300044: 45 divider
+    3300046: 45 divider001
+    3300048: 45 divider002
+    3300050: 45 divider003
+    3300052: center window divider001
+    3300054: center window divider002
+    3300056: center window divider003
+    3300058: center window divider004
+    3300060: center window divider005
+    3300062: center window divider006
+    3300064: center window divider007
+    3300066: center window divider008
+    3300068: center window divider009
+    3300070: center window divider010
+    3300072: center window divider011
+    3300074: floor
+    3300076: large shop door
+    3300078: large shop door001
+    3300080: large shop door002
+    3300082: large shop door003
+    3300084: large shop door004
+    3300086: large shop door005
+    3300088: large shop door006
+    3300090: large shop door007
+    3300092: large shop door008
+    3300094: large shop door009
+    3300096: large shop door010
+    3300098: sidewalk_square
+    3300100: sidewalk_square002
+    3300102: sidewalk_square003
+    3300104: sidewalk_square004
+    3300106: sidewalk_square005
+    3300108: tall divider
+    3300110: tall divider001
+    3300112: tall divider002
+    3300114: tall divider003
+    3300116: tall divider004
+    3300118: tall divider005
+    3300120: window top001
+    3300122: window top002
+    3300124: window top003
+    3300126: window top004
+    3300128: window top005
+    3300130: window top006
+    3300132: window top007
+    3300134: window top008
+    3300136: window top009
+    3300138: window top010
+    3300140: window top011
+    3300142: window top012
+    3300144: window top013
+    3300146: window top014
+    3300148: window top015
+    3300150: window top016
+    3300152: window top017
+    3300154: window top018
+    3300156: window top019
+    3300158: window top020
+    3300160: window top021
+    3300162: window top022
+    4300000: large shop door
+    4300002: 2nd floor window 002
+    4300004: window top001
+    4300006: center window divider001
+    4300008: tall divider
+    4300010: large shop door001
+    4300012: 45 divider
+    4300014: large shop door002
+    4300016: 45 divider001
+    4300018: 2nd floor window 003
+    4300020: window top002
+    4300022: 2nd floor window 004
+    4300024: center window divider002
+    4300026: 2nd floor window 005
+    4300028: window top003
+    4300030: window top004
+    4300032: large shop door003
+    4300034: 2nd floor window 006
+    4300036: center window divider003
+    4300038: 2nd floor window 007
+    4300040: window top005
+    4300042: window top006
+    4300044: 2nd floor window 008
+    4300046: center window divider004
+    4300048: 2nd floor window 009
+    4300050: window top007
+    4300052: window top008
+    4300054: large shop door004
+    4300056: 2nd floor window 010
+    4300058: window top009
+    4300060: center window divider005
+    4300062: tall divider001
+    4300064: 2nd floor window 011
+    4300066: window top010
+    4300068: large shop door005
+    4300070: 2nd floor window 012
+    4300072: center window divider006
+    4300074: 2nd floor window 013
+    4300076: window top011
+    4300078: window top012
+    4300080: tall divider002
+    4300082: large shop door006
+    4300084: 2nd floor window 014
+    4300086: center window divider007
+    4300088: 2nd floor window 015
+    4300090: window top013
+    4300092: window top014
+    4300094: 45 divider002
+    4300096: large shop door007
+    4300098: 2nd floor window 016
+    4300100: center window divider008
+    4300102: window top015
+    4300104: 2nd floor window 017
+    4300106: window top016
+    4300108: 45 divider003
+    4300110: large shop door008
+    4300112: 2nd floor window 018
+    4300114: window top017
+    4300116: center window divider009
+    4300118: 2nd floor window 019
+    4300120: window top018
+    4300122: tall divider003
+    4300124: tall divider004
+    4300126: large shop door009
+    4300128: 2nd floor window 020
+    4300130: center window divider010
+    4300132: 2nd floor window 021
+    4300134: window top019
+    4300136: window top020
+    4300138: tall divider005
+    4300140: large shop door010
+    4300142: 2nd floor window 022
+    4300144: center window divider011
+    4300146: 2nd floor window 023
+    4300148: window top021
+    4300150: window top022
+    4300152: sidewalk_square
+    4300154: sidewalk_square002
+    4300156: sidewalk_square003
+    4300158: sidewalk_square004
+    4300160: sidewalk_square005
+    4300162: floor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
